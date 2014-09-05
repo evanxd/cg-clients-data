@@ -1,0 +1,9 @@
+{
+  "name": "cg-clients-data",
+  "version": "0.0.0",
+  "description": "A open data API to provide clients' data of the CG company.",
+  "author": "Evan Xd <itoyxd@gmail.com>",
+  "dependencies": {
+    "pdf-text": "0.4.0"
+  }
+}
